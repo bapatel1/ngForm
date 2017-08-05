@@ -5,6 +5,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Based on 
 ```
 https://medium.com/@tarik.nzl/angular-2-custom-form-control-with-validation-json-input-2b4cf9bc2d73
+https://plnkr.co/edit/iFXRkJWVZ9tQ9i6mxmuf?p=preview
 ```
 
 ## Development server
